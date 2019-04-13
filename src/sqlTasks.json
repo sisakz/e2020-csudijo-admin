@@ -1,0 +1,22 @@
+[
+    {
+        "id": 12,
+        "description": "Adatbázis létrehozása",
+        "adminPage": false
+    },
+    {
+        "id": 13,
+        "description": "Ételek száma az étlapon",
+        "adminPage": true
+    },
+    {
+        "id": 14,
+        "description": "Desszertek",
+        "adminPage": true
+    }, 
+    {
+        "id": 15,
+        "description": "Legnépszerűbb étel",
+        "adminPage": true
+    } 
+]
